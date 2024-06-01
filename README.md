@@ -1,6 +1,7 @@
 # Проектная работа "Оно тебе надо"
+
 [Ссылка на репозиторий](https://github.com/AlexMoS1n/Ono-tebe-nado-auction.git)  
-git
+
 Стек: HTML, SCSS, TS, Webpack
 
 Структура проекта:
